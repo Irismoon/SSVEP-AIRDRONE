@@ -1,0 +1,33 @@
+﻿Main.obj : error LNK2019: 无法解析的外部符号 auxDIBImageLoadA，该符号在函数 "public: int __cdecl CGL::LoadGLTextures(void)" (?LoadGLTextures@CGL@@QEAAHXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 mxGetPr，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 mxDestroyArray，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 mxCreateDoubleMatrix_730，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 engEvalString，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 engOpen，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 engClose，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 engGetVariable，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 engPutVariable，该符号在函数 "public: void __cdecl CSVEP::MatlabEng(void)" (?MatlabEng@CSVEP@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_ES_GetHeadsetOn，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EngineConnect，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EngineDisconnect，该符号在函数 "public: __cdecl CClient::~CClient(void)" (??1CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoEngineEventCreate，该符号在函数 "public: __cdecl CClient::CClient(void)" (??0CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoEngineEventFree，该符号在函数 "public: __cdecl CClient::~CClient(void)" (??1CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoStateCreate，该符号在函数 "public: __cdecl CClient::CClient(void)" (??0CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoStateFree，该符号在函数 "public: __cdecl CClient::~CClient(void)" (??1CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoEngineEventGetType，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoEngineEventGetUserId，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EmoEngineEventGetEmoState，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_EngineGetNextEvent，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataCreate，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataFree，该符号在函数 "public: __cdecl CClient::~CClient(void)" (??1CClient@@QEAA@XZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataUpdateHandle，该符号在函数 "public: void __cdecl CClient::ReceiveData(void)" (?ReceiveData@CClient@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataGet，该符号在函数 "public: void __cdecl CClient::ReceiveData(void)" (?ReceiveData@CClient@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataGetNumberOfSample，该符号在函数 "public: void __cdecl CClient::ReceiveData(void)" (?ReceiveData@CClient@@QEAAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataSetBufferSizeInSec，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_EE_DataAcquisitionEnable，该符号在函数 "public: bool __cdecl CClient::Connect(void)" (?Connect@CClient@@QEAA_NXZ) 中被引用
+glaux.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+libeng.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+libmat.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+libmx.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+edk.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+E:\OneDrive\BCI\SSVEP_Car_R2\x64\Debug\SSVEP_CarDrive.exe : fatal error LNK1120: 27 个无法解析的外部命令
